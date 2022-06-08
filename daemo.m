@@ -7,7 +7,7 @@ T = evalin('base', 'T');
 R = 8.314e-3; % 气体常数,注意单位是 kJ/mol·K
 beTa = 1/12; % 升温速率5 oC/min；
 F = 0;
-n = readtable('/Users/caoyang/Desktop/new_DAEM','ReadVariableNames',false);
+n = readtable('文件地址','ReadVariableNames',false);
 %使用readTable读取数据文件
 da = table2array(n(2:50,3))';
 
