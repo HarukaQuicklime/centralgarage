@@ -4,7 +4,7 @@ fun = @daemo;
 %daTa = load('')
 %T0 = daTa(1);
 %T = daTa(2:40);
-n = readtable('/Users/caoyang/Desktop/new_DAEM','ReadVariableNames',false);
+n = readtable('文件地址','ReadVariableNames',false);
 %n为读取数据的表格
 Tx  = table2array(n(1:50,1));
 T0 = Tx(1);
