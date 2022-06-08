@@ -1,1 +1,1 @@
-# HarukaQuicklime.github.io
+用于计算多高斯分布式活化能（M-DAEM）计算，循环次数可根据源数据进行更改。
