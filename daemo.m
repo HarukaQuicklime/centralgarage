@@ -5,7 +5,7 @@ function F = daemo(x)
 %T0 = evalin('base', 'T0'); 
 T = evalin('base', 'T'); 
 R = 8.314e-3; % 气体常数,注意单位是 kJ/mol·K
-beTa = 1/12; % 升温速率5 oC/min；
+beTa = 1/12; % 升温速率5 oC/min，此处的单位为 oC/s；
 F = 0;
 n = readtable('文件地址','ReadVariableNames',false);
 %使用readTable读取数据文件
