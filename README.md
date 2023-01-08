@@ -1,2 +1,5 @@
-The program was written in MATLAB.
-The program was based on 3-Gaussian-DAEM model.
+代码使用Matlab语言编写，MATLAB R2019b运行OK。
+这是一个三高斯分布式活化能模型。
+你可以用这个模型计算材料热解的动力学参数。
+本研究使用的指前因子为10^17.5，升温速率为1/6 oC/min。
+初学者编写，轻喷。
