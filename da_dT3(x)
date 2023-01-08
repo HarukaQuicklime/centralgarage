@@ -1,7 +1,7 @@
 function G = da_dT3(x)
 R = 8.314e-3; % 气体常数,注意单位是 kJ/mol·K
 beTa = 1/6; % 升温速率10 oC/min，修改数据的时候注意升温速率！！！
-T = load("/Users/caoyang/Desktop/DAEM/20wt-0.2/T.txt");%你的数据地址
+T = load("/Users/Desktop/DAEM/20wt-0.2/T.txt");%你的数据地址
 T = T';
 T = T(1:10:end);
 for i = 1:285
