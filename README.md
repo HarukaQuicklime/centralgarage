@@ -1,2 +1,2 @@
-用于计算多高斯分布式活化能（M-DAEM）计算，循环次数可根据源数据进行更改。
-本方法是基于模式搜索算法建立的
+The program was written in MATLAB.
+The program was based on 3-Gaussian-DAEM model.
