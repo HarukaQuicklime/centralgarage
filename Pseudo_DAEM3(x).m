@@ -2,7 +2,7 @@
 function F = Pseudo_DAEM3(x)
 R = 8.314e-3; % Gas constant 8.314*10-3 kJ/mol*K;
 beTa = 1/6; % Heating rate, 10 K/min;
-da =  load("/Users/caoyang/DAEM/20wt-0.2/da.txt"); 
+da =  load("/Users/DAEM/20wt-0.2/da.txt"); 
 T = evalin('base', 'T'); 
 da = da'; 
 SSE = 0;
