@@ -1,8 +1,12 @@
 -2025.6.20
--New_Vyazovkin_Ea_Hikari_ver. 1. 1-For isoconversional kinetic analysis\n
+-New_Vyazovkin_Ea_Hikari_ver. 1. 1-For isoconversional kinetic analysis
+
 The Excel file is a convenient tool for kinetic analysis.
+
 It allows you to calculate the activation energy using the Vyazovkin method with three or four different heating rates. The temperature integral is approximated using the Cai approximation (see references for details).
+
 The calculated Ea ranges from 50 to 500 kJ/mol, with a step size of 0.01 kJ/mol. 
+
 The results of this file deviate only slightly from those obtained using other commonly accepted isoconversional methods (FWO, KAS, Friedman, and Starink), indicating good stability and reliability. You may use three heating rates for calculation, but four is recommended to reduce error and improve accuracy.
 
 you can download the file from https://drive.google.com/file/d/1Vp4TNJw7vfK5nr49X27v14lVDw3mo2O-/view?usp=drive_link
