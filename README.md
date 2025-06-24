@@ -9,7 +9,7 @@ The calculated Ea ranges from 50 to 500 kJ/mol, with a step size of 0.01 kJ/mol.
 
 The results of this file deviate only slightly from those obtained using other commonly accepted isoconversional methods (FWO, KAS, Friedman, and Starink), indicating good stability and reliability. You may use three heating rates for calculation, but four is recommended to reduce error and improve accuracy.
 
-you can download the file from https://drive.google.com/file/d/1Vp4TNJw7vfK5nr49X27v14lVDw3mo2O-/view?usp=drive_link
+you can download the file from https://drive.google.com/file/d/1Vp4TNJw7vfK5nr49X27v14lVDw3mo2O-/view?usp=drive_link](https://drive.google.com/file/d/1Vp4TNJw7vfK5nr49X27v14lVDw3mo2O-/view?usp=sharing
 
 
 -2022
